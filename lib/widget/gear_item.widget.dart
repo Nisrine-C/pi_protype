@@ -116,6 +116,7 @@ class GearItem extends StatelessWidget {
                       style: TextStyle(fontSize: 16),
                     ),
                   )
+                ),
                   ],
                 )
             ),
