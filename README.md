@@ -8,8 +8,8 @@
 
 <img src='./images/project_structure.png'>
 ### Interfaces
-<img src='./images/Interface1.png'>
 <img src='./images/Interface2.png'>
+<img src='./images/Interface1.png'>
 
 ### `Constants`
 
