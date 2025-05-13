@@ -4,6 +4,7 @@
 * **`Model`** – Contains plain Dart classes (`Fault`, `Gear`, `Prediction`) used to represent data models.
 * **`Screen`** – Holds screen-level UI components such as `Home` (dashboard view) and `Detail` (gear-specific view).
 * **`Widget`** – Includes reusable custom widgets like `GearItem`, `ProgressBar`, and `StatusIndicator` that are used across screens.
+* **`Interfaces`**
 <img src='./images/project_structure.png'>
 
 ### `Constants`
@@ -309,3 +310,6 @@ class StatusIndicator extends StatelessWidget {
 }
 ```
 
+### Interfaces
+<img src='./images/interface1.png'>
+<img src='./images/interface2.png'>
